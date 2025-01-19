@@ -6,3 +6,7 @@ return feet ;
 }
 const shovoHeight =inchToFeet (75) ;
 console.log(shovoHeight)
+
+
+// output:
+// 6.25
