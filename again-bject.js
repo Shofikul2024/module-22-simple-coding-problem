@@ -1,12 +1,12 @@
 const person ={
-    name : 'shofiukl'  ,
-    address : 'jamalpur'  ,
+    emailFirstName : 'islamshofi942'  ,
+    lastName: 'gmail'  ,
     
     }
     
     function createEmail ( info)  {
     
-    const result =info.name +'@'  + info.address +'.com'
+    const result =info.emailFirstName +'@'  + info.lastName +'.com'
     
     return result 
     }
